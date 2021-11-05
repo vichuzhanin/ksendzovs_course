@@ -1,1 +1,1 @@
-# ksendzovs_course_01
+# ksendzovs_course_01_terminal
