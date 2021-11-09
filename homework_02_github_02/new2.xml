@@ -4,4 +4,9 @@
   <age>23</age>
   <pets_number>1,5</pets_number>
   <desired_salary>100.000.000 $</desired_salary>
+  <favorite_movie>Побег из Шоушенка</favorite_movie>
+  <favorite_series>Друзья</favorite_series>
+  <favorite_food>Мясо по-французски</favorite_food>
+  <favorite_season>Лето</favorite_season>
+  <desired_country>Португалия</desired_сountry>
 </list>
