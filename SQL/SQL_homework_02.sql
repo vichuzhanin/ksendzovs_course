@@ -99,7 +99,7 @@ values (1000),
 (2500);
 
 create table employee_salary(
-	id_emp_sal serial primary key,
+	employee_salary_id serial primary key,
 	employee_id int unique not null,
 	salary_id int not null
 )
@@ -147,7 +147,7 @@ values (63, 6),
 (80, 6);
 
 create table roles(
-	role_id serial primary key,
+	roles_id serial primary key,
 	role_name int unique not null
 )
 
